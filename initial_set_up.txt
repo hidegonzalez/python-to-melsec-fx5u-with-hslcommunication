@@ -1,0 +1,3 @@
+   Open GX WORK3 >Navigation> parameter >FX5u cpu >Module Parameter>Ethernet Port
+   Basic Setting>Set Up IP And Subnet Mask And Click External Device Configuration
+   With Modulelist Select Ethernet Device(General)>Drop SLMP Connection To HOST Station And Set Port
